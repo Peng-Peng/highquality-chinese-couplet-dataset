@@ -28,11 +28,11 @@ Sheng Lü Qi Meng: Written by Che Wanyu during the Qing Dynasty. This book was a
 
 -《笠翁对韵》作者李渔，是他仿照《声律启蒙》写的旨在作诗的韵书，是用于儿童音韵启蒙的书
 
-Authored by Li Yu, this book was modeled after Sheng Lü Qi Meng and designed as a rhyming guide for poetry composition. It served as a phonetic primer for children.
+Li Weng Dui Yun: Authored by Li Yu, this book was modeled after Sheng Lü Qi Meng and designed as a rhyming guide for poetry composition. It served as a phonetic primer for children.
 
 -《训蒙骈句》,明代司守谦撰。骈句，即骈偶句，即对仗句。两马并驾为骈，二人并处为偶，意谓两两相对。古时宫中卫队行列月仗（仪仗），仪仗两两相对，故卞偶亦称对仗。以偶句为主构成字数相等的上下联，上下联词语相对，平仄相对。用这种形式的四六句写成的文章，晚唐时称作“四六”，宋明沿用，至清改称骈体。对童蒙进行骈句训练，为作文作诗建立根基。《训蒙骈句》按韵部顺次，由三言、四言、五言、七言、十一言的五对骈句组成一段，每韵三段。此书与《声律启蒙》、《笠翁对韵》当可为吟诗作对之基，爱好诗文者，若熟而能诵，必大利于笔。历来也是作为训练儿童的语文教材。
 
-Written by Si Shouqian during the Ming Dynasty, this book focuses on paired sentences (also known as parallel sentences or couplets). The term "pian" refers to two horses yoked side by side or two individuals standing together, symbolizing symmetry and parallelism. In ancient times, ceremonial guards in imperial processions formed paired ranks, hence the use of pian to describe matched sentences. Each section features five paired sentences, ranging from three-character to eleven-character lines, organized by rhyme group, with three sections per rhyme. This format aimed to train children in crafting parallel sentences, establishing a foundation for essay and poetry writing. Together with Sheng Lü Qi Meng and Li Weng Dui Yun, this book is an essential resource for poetry enthusiasts. Mastering its content provides significant benefits for literary composition and has traditionally been used as a language textbook for children.
+Xun Meng Pian Ju: Written by Si Shouqian during the Ming Dynasty, this book focuses on paired sentences (also known as parallel sentences or couplets). The term "pian" refers to two horses yoked side by side or two individuals standing together, symbolizing symmetry and parallelism. In ancient times, ceremonial guards in imperial processions formed paired ranks, hence the use of pian to describe matched sentences. Each section features five paired sentences, ranging from three-character to eleven-character lines, organized by rhyme group, with three sections per rhyme. This format aimed to train children in crafting parallel sentences, establishing a foundation for essay and poetry writing. Together with Sheng Lü Qi Meng and Li Weng Dui Yun, this book is an essential resource for poetry enthusiasts. Mastering its content provides significant benefits for literary composition and has traditionally been used as a language textbook for children.
 
 
 
