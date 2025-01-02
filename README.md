@@ -4,7 +4,7 @@
 
 这个数据集包含了2250条对句，来自三本经典的古代声韵格律启蒙读物，分别是《声律启蒙》、《笠翁对韵》、《训蒙骈句》。
 
-This dataset contains 2,250 high quality couplets drawn from three classic ancient Chinese phonetics and poetic meter: Sheng Lü Qi Meng (Introduction to Rhymes and Metrics), Li Weng Dui Yun (Li Weng's Rhyming Couplets), and Xun Meng Pian Ju (Paired Sentences for Enlightening Beginners). These three books are considered foundational texts for teaching children the art of parallelism in classical Chinese literature.
+This dataset contains 2,250 high quality couplets drawn from three classic ancient Chinese phonetics and poetic meter: Sheng Lü Qi Meng (Introduction to Rhymes and Metrics), Li Weng Dui Yun (Li Weng's Rhyming Couplets), and Xun Meng Pian Ju (Paired Sentences for Enlightening Beginners). These three books are considered foundational textbooks for teaching children the art of parallelism in classical Chinese literature.
 
 ## How to Use the Dataset
 **NOTE: This dataset is provided under the MIT License. Attribution is required in any publications or derivative works.**
